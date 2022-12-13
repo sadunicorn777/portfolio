@@ -1,14 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7c4c2388.css",
-    "main.js": "/portfolio/static/js/main.99eb4ba6.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/portfolio/index.html",
-    "main.7c4c2388.css.map": "/portfolio/static/css/main.7c4c2388.css.map",
-    "main.99eb4ba6.js.map": "/portfolio/static/js/main.99eb4ba6.js.map"
+    "main.css": "/static/css/main.7c4c2388.css",
+    "main.js": "/static/js/main.c7b8b44e.js",
+    "static/media/RR.png": "/static/media/RR.e74fe173c20439914ac9.png",
+    "static/media/Dev.png": "/static/media/Dev.929c6cb9ace83ed18cf1.png",
+    "static/media/Constellations.png": "/static/media/Constellations.da975dcfa73f2fa6f2b7.png",
+    "static/media/Personas.png": "/static/media/Personas.2866556cfa4fd4194c07.png",
+    "static/media/Axis.png": "/static/media/Axis.789d5eb6e62cc64961e7.png",
+    "static/media/ConstellationsNoAxis.png": "/static/media/ConstellationsNoAxis.477ee7b0a3b612018293.png",
+    "static/media/Dash.png": "/static/media/Dash.6a2f7c92802d248f60d9.png",
+    "static/media/Redacted.png": "/static/media/Redacted.ca7a6a5885ca7c51d7d5.png",
+    "static/media/TRANSPARENT SPLASH GRAPHIC.png": "/static/media/TRANSPARENT SPLASH GRAPHIC.ffe67bce5ed10a4df5c7.png",
+    "static/media/sample img.png": "/static/media/sample img.80c8a3c32e12daa1b9f5.png",
+    "static/media/File.png": "/static/media/File.7789d6fd39427086dfd9.png",
+    "index.html": "/index.html",
+    "main.7c4c2388.css.map": "/static/css/main.7c4c2388.css.map",
+    "main.c7b8b44e.js.map": "/static/js/main.c7b8b44e.js.map"
   },
   "entrypoints": [
     "static/css/main.7c4c2388.css",
-    "static/js/main.99eb4ba6.js"
+    "static/js/main.c7b8b44e.js"
   ]
 }
