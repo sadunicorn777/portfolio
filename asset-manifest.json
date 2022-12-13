@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c4c2388.css",
-    "main.js": "/static/js/main.c44691dd.js",
-    "static/media/RR.png": "/static/media/RR.e74fe173c20439914ac9.png",
-    "static/media/Dev.png": "/static/media/Dev.929c6cb9ace83ed18cf1.png",
-    "static/media/Constellations.png": "/static/media/Constellations.da975dcfa73f2fa6f2b7.png",
-    "static/media/Personas.png": "/static/media/Personas.2866556cfa4fd4194c07.png",
-    "static/media/Axis.png": "/static/media/Axis.789d5eb6e62cc64961e7.png",
-    "static/media/ConstellationsNoAxis.png": "/static/media/ConstellationsNoAxis.477ee7b0a3b612018293.png",
-    "static/media/Dash.png": "/static/media/Dash.6a2f7c92802d248f60d9.png",
-    "static/media/Redacted.png": "/static/media/Redacted.ca7a6a5885ca7c51d7d5.png",
-    "static/media/TRANSPARENT SPLASH GRAPHIC.png": "/static/media/TRANSPARENT SPLASH GRAPHIC.ffe67bce5ed10a4df5c7.png",
-    "static/media/sample img.png": "/static/media/sample img.80c8a3c32e12daa1b9f5.png",
-    "static/media/File.png": "/static/media/File.7789d6fd39427086dfd9.png",
-    "index.html": "/index.html",
-    "main.7c4c2388.css.map": "/static/css/main.7c4c2388.css.map",
-    "main.c44691dd.js.map": "/static/js/main.c44691dd.js.map"
+    "main.css": "/portfolio/static/css/main.7c4c2388.css",
+    "main.js": "/portfolio/static/js/main.b095601e.js",
+    "static/media/RR.png": "/portfolio/static/media/RR.e74fe173c20439914ac9.png",
+    "static/media/Dev.png": "/portfolio/static/media/Dev.929c6cb9ace83ed18cf1.png",
+    "static/media/Constellations.png": "/portfolio/static/media/Constellations.da975dcfa73f2fa6f2b7.png",
+    "static/media/Personas.png": "/portfolio/static/media/Personas.2866556cfa4fd4194c07.png",
+    "static/media/Axis.png": "/portfolio/static/media/Axis.789d5eb6e62cc64961e7.png",
+    "static/media/ConstellationsNoAxis.png": "/portfolio/static/media/ConstellationsNoAxis.477ee7b0a3b612018293.png",
+    "static/media/Dash.png": "/portfolio/static/media/Dash.6a2f7c92802d248f60d9.png",
+    "static/media/Redacted.png": "/portfolio/static/media/Redacted.ca7a6a5885ca7c51d7d5.png",
+    "static/media/TRANSPARENT SPLASH GRAPHIC.png": "/portfolio/static/media/TRANSPARENT SPLASH GRAPHIC.ffe67bce5ed10a4df5c7.png",
+    "static/media/sample img.png": "/portfolio/static/media/sample img.80c8a3c32e12daa1b9f5.png",
+    "static/media/File.png": "/portfolio/static/media/File.7789d6fd39427086dfd9.png",
+    "index.html": "/portfolio/index.html",
+    "main.7c4c2388.css.map": "/portfolio/static/css/main.7c4c2388.css.map",
+    "main.b095601e.js.map": "/portfolio/static/js/main.b095601e.js.map"
   },
   "entrypoints": [
     "static/css/main.7c4c2388.css",
-    "static/js/main.c44691dd.js"
+    "static/js/main.b095601e.js"
   ]
 }
